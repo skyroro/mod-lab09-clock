@@ -9,7 +9,7 @@
 
 Срок выполнения работы: **до 1 июня**
 
-![Relative date](https://img.shields.io/date/1653253200)
+![Relative date](https://img.shields.io/date/1685653200)
 
 **Цель работы:** научиться создавать приложения **Windows Forms** с использованием элементов графики, изучить событие **Paint**.
 
